@@ -9,3 +9,6 @@ Esto se desarrolló con el uso de:
 * Async
 
 Se hizo usó de métodos asyncronos para acelerar la consulta de los 25 endpoints.
+
+De igual manera para probar el endpoint de una manera más rápida se generó un demo en la siguiente URL:
+<https://yxdzjjbs5f2vpsqepfzsirjsj40syadw.lambda-url.us-east-1.on.aws/>
